@@ -1,4 +1,3 @@
-require "rubocop/rails/migrations/version"
 require "pathname"
 require "yaml"
 
