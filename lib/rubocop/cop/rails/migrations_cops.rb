@@ -1,1 +1,1 @@
-require_relative "migrations/null_false"
+require_relative "migrations/missing_null_option"
